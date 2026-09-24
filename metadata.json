@@ -1,0 +1,7 @@
+{
+  "name": "CrediCheck Underwriting Simulator",
+  "description": "Simulated rule-based credit scoring and underwriting pre-screener engine for personal loans with real-time bureau proxy assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
